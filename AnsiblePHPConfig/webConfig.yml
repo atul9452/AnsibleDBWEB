@@ -1,5 +1,5 @@
 ---
-- name: Testing DB SERVER
+- name: Testing WEB SERVER
   hosts: webserver
   environment:
     http_proxy: proxy
